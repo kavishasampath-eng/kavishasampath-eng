@@ -2,7 +2,7 @@
 
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F5FF,50:7B2CFF,100:FF00C8&height=220&section=header&text=Kavisha%20S&fontSize=55&fontColor=ffffff&fontAlignY=35&animation=twinkling" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F5FF,50:7B2CFF,100:FF00C8&height=220&section=header&text=Kavisha%20&fontSize=55&fontColor=ffffff&fontAlignY=35&animation=twinkling" />
 </p>
 
 <!-- ⌨️ TYPING ANIMATION -->
@@ -26,11 +26,11 @@
 ```text
 ╔══════════════════════════════════════╗
 ║        👋 KAVISHA SAMPATH           ║
-╠══════════════════════════════════════╣
-║ 💻 Aspiring Software Engineer       ║
+╠══════════════════════════════════════
+║ 💻 Aspiring Software Engineer       
 ║ 🚀 Developer & Learner              ║
-║ 🌱 Always Learning New Technologies ║
-║ ⚡ Turning Ideas Into Code           ║
+ 🌱 Always Learning New Technologies 
+║ ⚡ Turning Ideas Into Code           
 ╚══════════════════════════════════════╝
 ````
 
